@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d915b6ec-6b8d-4c0c-a12c-c84f8511e64d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/META-INF/helloworld-clase1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Cadenas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Calificacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/ConvertidorVelocidad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Diccionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/IfOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Quiz1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Quiz2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/Salario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/convertidor/TiposDatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/strings/StringPart3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld-clase1/com/neosuniversity/strings/StringPart3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,47 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/JavaPart3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StaticMetodos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -100,10 +74,11 @@
         <option value="$PROJECT_DIR$/src/com/neosuniversity/strings/JavaPart3.java" />
         <option value="$PROJECT_DIR$/src/com/neosuniversity/strings/StaticMetodos.java" />
         <option value="$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart3.java" />
+        <option value="$PROJECT_DIR$/src/com/neosuniversity/strings/Reverse.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
@@ -117,11 +92,46 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codigo-clase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codigo-clase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codigo-clase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codigo-clase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codigo-clase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codigo-clase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="neosuniversity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codigo-clase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codigo-clase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="neosuniversity" type="462c0819:PsiDirectoryNode" />
+              <item name="condiciones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codigo-clase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codigo-clase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="neosuniversity" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551331142485" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552120361971" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -137,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticMetodos">
+  <component name="RunManager" selected="Application.Reverse">
     <configuration name="JavaPart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.neosuniversity.strings.JavaPart3" />
       <module name="helloworld-clase1" />
@@ -151,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neosuniversity.strings.StaticMetodos" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neosuniversity.strings.Reverse" />
       <module name="helloworld-clase1" />
       <extension name="coverage">
         <pattern>
@@ -164,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neosuniversity.strings.StringPart1" />
+    <configuration name="StaticMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neosuniversity.strings.StaticMetodos" />
       <module name="helloworld-clase1" />
       <extension name="coverage">
         <pattern>
@@ -205,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.StaticMetodos" />
         <item itemvalue="Application.StringPart3" />
         <item itemvalue="Application.JavaPart3" />
         <item itemvalue="Application.StringPart2" />
-        <item itemvalue="Application.StringPart1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,10 +237,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2790347" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +249,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32944608" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,13 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/condiciones/AumentoSalarial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/condiciones/OperadorTernario.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -374,27 +377,6 @@
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/JavaPart3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StaticMetodos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -406,6 +388,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/JavaPart3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/StringPart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/condiciones/AumentoSalarial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/neosuniversity/strings/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
